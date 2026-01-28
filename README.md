@@ -33,7 +33,7 @@ This project is a SQL-based E-Commerce Database System designed to manage produc
 - queries.sql → SQL queries
 
 ## 🎓 Certifications
-- HackerRank SQL (Basic): https://www.hackerrank.com/certificates/a2541c3747f9
+- HackerRank SQL (Basic): (https://www.hackerrank.com/certificates/77c22a865dc1)
 - HackerRank SQL (Intermediate) : https://www.hackerrank.com/certificates/a2541c3747f9
 
 
